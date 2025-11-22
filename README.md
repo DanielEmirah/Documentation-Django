@@ -1,1 +1,1 @@
-Ce projet est un projet de formation issu des documentation officiel de django
+Ce projet est un projet de formation issu de la documentation officielle de Django.
